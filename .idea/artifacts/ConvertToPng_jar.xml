@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConvertToPng:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConvertToPng_jar</output-path>
+    <root id="archive" name="ConvertToPng.jar">
+      <element id="module-output" name="ConvertToPng" />
+    </root>
+  </artifact>
+</component>
